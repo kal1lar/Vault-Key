@@ -257,6 +257,12 @@
     "image": "https://raw.githubusercontent.com/kal1lar/Vault-Key/main/images/card_d8-1930.png"
   },
   {
+    "id": "e8-2100",
+    "day": 8,
+    "time": "21:00",
+    "text": "🔑 Evening, operators. 🏦\n\nTonight's keys are on the board. Read the spot, take the door — never chase.\n\nVIP gets the full card. Watch this space."
+  },
+  {
     "id": "d8-2230",
     "day": 8,
     "time": "22:30",
@@ -267,6 +273,12 @@
     "day": 8,
     "time": "23:00",
     "text": "💥 RESULT — Rayo Vallecano v Espanyol\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
+  },
+  {
+    "id": "e8-2330",
+    "day": 8,
+    "time": "23:30",
+    "text": "🔑 Tuesday's done.\n\nLog it and move — no deleted slips here. Midweek board opens early tomorrow.\n\nNight, operators. 🔑"
   },
   {
     "id": "r8-1800",
@@ -281,16 +293,34 @@
     "text": "💥 RESULT — Elche v Real Madrid\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e9-0800",
+    "day": 9,
+    "time": "08:00",
+    "text": "🔑 Lines are up. ☀️\n\nMidweek board's open — Europa night is stacked later. I'm already circling the doors worth walking through.\n\nKeys drop through the day. Stay close. 🏦"
+  },
+  {
     "id": "d9-0900",
     "day": 9,
     "time": "09:00",
     "text": "GM. ☀️🔑 Midweek grind.\nGoing through the weekend card early. Only the real doors make the cut.\nDrop a 🔥."
   },
   {
+    "id": "e9-1100",
+    "day": 9,
+    "time": "11:00",
+    "text": "📈 How we read a spot 🔑\n\nWe don't chase names. We chase the gap between the real chance and the price.\n\nWhen the door's mispriced, we walk through. That's the whole game."
+  },
+  {
     "id": "d9-1300",
     "day": 9,
     "time": "13:00",
     "text": "Free vs VIP — straight talk. 🔑\nFree: you ride the public keys and see I'm real.\nVIP: the longer prices and the plays I keep off the public feed. 🏦"
+  },
+  {
+    "id": "e9-1600",
+    "day": 9,
+    "time": "16:00",
+    "text": "🔑 Europa League night incoming. 🏦\n\nBig board later — I'm dropping keys across the slate. Turn notifications on so you don't miss a door.\n\n⚽ It's loaded."
   },
   {
     "id": "d9-1645",
@@ -390,6 +420,12 @@
     "text": "Premier League round 5 this weekend and it's LOADED. 🔑🏦\nArsenal, City, Liverpool, a Manchester side away… keys everywhere.\nStack your bank flat and be ready."
   },
   {
+    "id": "e9-2100",
+    "day": 9,
+    "time": "21:00",
+    "text": "🔑 Vault's busy tonight. 🏦\n\nThis is the volume the free channel can't fully carry — VIP gets every door, early.\n\nDoors open soon. Watch this space."
+  },
+  {
     "id": "r9-1645",
     "day": 9,
     "time": "22:45",
@@ -412,6 +448,12 @@
     "day": 9,
     "time": "23:05",
     "text": "💥 RESULT — Deportivo v Sevilla\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
+  },
+  {
+    "id": "e9-2330",
+    "day": 9,
+    "time": "23:30",
+    "text": "🔑 That's the midweek board done.\n\nWhatever landed and whatever didn't — we log it and move. No deleted slips, no rewritten history.\n\nWeekend's coming. 🏦"
   },
   {
     "id": "r9-1900",
@@ -468,16 +510,34 @@
     "text": "💥 RESULT — Levante v Athletic\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e10-0800",
+    "day": 10,
+    "time": "08:00",
+    "text": "🔑 Morning. Board's live. ☀️\n\nQuiet-looking Thursday on paper — that's exactly where the value hides.\n\nEyes open. 🏦"
+  },
+  {
     "id": "d10-0900",
     "day": 10,
     "time": "09:00",
     "text": "GM, operators. 🔑\nTwo days to the raid. Prices are still soft — that's where the value hides.\nHit ❤️ to wake the room."
   },
   {
+    "id": "e10-1100",
+    "day": 10,
+    "time": "11:00",
+    "text": "🔑 Bankroll beats any single key.\n\nFlat, disciplined stakes. No doubling down to 'win it back'. The vault rewards the ones still standing next month.\n\nProtect the bag. 🏦"
+  },
+  {
     "id": "d10-1300",
     "day": 10,
     "time": "13:00",
     "text": "250 reactions and I drop a free key today. 🔑\nYou set the pace. The vault opens as loud as the room gets. 🏦"
+  },
+  {
+    "id": "e10-1600",
+    "day": 10,
+    "time": "16:00",
+    "text": "🔑 Evening slate's set.\n\nKeys locked and lined up for kickoff. Read them, don't rush them.\n\nDoors open soon. 🏦"
   },
   {
     "id": "d10-1645",
@@ -521,6 +581,12 @@
     "image": "https://raw.githubusercontent.com/kal1lar/Vault-Key/main/images/card_d10-1915.png"
   },
   {
+    "id": "e10-2100",
+    "day": 10,
+    "time": "21:00",
+    "text": "🔑 Free keys open the outer doors.\n\nVIP opens the vault itself — full card, earlier drops, no noise.\n\nWhen it's ready, you'll be first to know. 🏦"
+  },
+  {
     "id": "r10-1645",
     "day": 10,
     "time": "22:45",
@@ -531,6 +597,12 @@
     "day": 10,
     "time": "23:00",
     "text": "💥 RESULT — Betis v Getafe\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
+  },
+  {
+    "id": "e10-2330",
+    "day": 10,
+    "time": "23:30",
+    "text": "🔑 Night, operators.\n\nThursday's in the book. Weekend vault nearly loaded — biggest card of the week ahead.\n\nRest up. 🔑"
   },
   {
     "id": "r10-1905",
@@ -551,16 +623,34 @@
     "text": "💥 RESULT — Juventus v NEC Nijmegen\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e11-0800",
+    "day": 11,
+    "time": "08:00",
+    "text": "🔑 Friday. Lines just dropped. ☀️🏦\n\nWeekend vault is loading. Today we set up, tomorrow we crack it.\n\nFirst key coming later."
+  },
+  {
     "id": "d11-0900",
     "day": 11,
     "time": "09:00",
     "text": "GM. Friday. 🔑🏦\nWeekend keys get cut today — locking value before the prices shorten.\n🔥 if you're ready to eat."
   },
   {
+    "id": "e11-1100",
+    "day": 11,
+    "time": "11:00",
+    "text": "📊 Favourites aren't 'safe' — they're priced.\n\nA 1.20 shot still loses 1 in 6 long-run. We stack the odds, we don't pretend they're locks.\n\nRespect the math. 🔑"
+  },
+  {
     "id": "d11-1300",
     "day": 11,
     "time": "13:00",
     "text": "THIS WEEKEND ON THE CARD 🔑\n• Brighton v Arsenal\n• Man City v Sunderland\n• Bournemouth v Liverpool\n• Fulham v Man Utd\n…and more. Free keys here, max plays in VIP. 🏦"
+  },
+  {
+    "id": "e11-1600",
+    "day": 11,
+    "time": "16:00",
+    "text": "🔑 Weekend card is nearly locked. 🏦\n\nDropping the last keys as the lines settle. Tomorrow we go big.\n\n⚽ Get ready."
   },
   {
     "id": "d11-1800",
@@ -596,6 +686,18 @@
     "text": "🔑 FRIDAY NIGHT KEY\n\n⚽ Brentford v Chelsea\nPick: [PICK]\nOdds: [x.xx]\n\nUnder the lights to open the round. One clean door. 🏦"
   },
   {
+    "id": "e11-2100",
+    "day": 11,
+    "time": "21:00",
+    "text": "🔑 Tomorrow's the big one. 🏦\n\nFull weekend card loading for VIP. Free channel gets the headline keys.\n\nRest up. We raid at the weekend."
+  },
+  {
+    "id": "e11-2330",
+    "day": 11,
+    "time": "23:30",
+    "text": "🔑 Card's locked for the weekend.\n\nGet your head right. Tomorrow we open door after door, morning to night.\n\nSee you on the board. 🏦"
+  },
+  {
     "id": "r11-1830",
     "day": 11,
     "time": "23:45",
@@ -620,10 +722,22 @@
     "text": "💥 RESULT — Brentford v Chelsea\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e12-0800",
+    "day": 12,
+    "time": "08:00",
+    "text": "🔑 SATURDAY. ☀️🏦\n\nBiggest board of the week is open — Premier League, top-five leagues, doors everywhere.\n\nPace yourself. We go from now till night."
+  },
+  {
     "id": "d12-1000",
     "day": 12,
     "time": "10:00",
     "text": "MATCHDAY. 🔑🏦\nVault's open, operators. Keys dropping all afternoon.\nStake flat. Trust the system. Let's raid.\n🔥🔥🔥"
+  },
+  {
+    "id": "e12-1100",
+    "day": 12,
+    "time": "11:00",
+    "text": "🔑 Matchday rule: one board, clear head.\n\nDon't bet every game just because it's on. We pick the doors, we skip the noise.\n\nSelection is the edge. 🏦"
   },
   {
     "id": "d12-1130",
@@ -676,6 +790,12 @@
     "time": "16:00",
     "text": "🔑 SERIE A KEY\n\n⚽ Roma v Inter\n🗓 19 Sep\n\nPick: Roma to win\nOdds: 2.57\n\nRead the spot, take the door. 🏦",
     "image": "https://raw.githubusercontent.com/kal1lar/Vault-Key/main/images/card_d12-1600.png"
+  },
+  {
+    "id": "e12-1601",
+    "day": 12,
+    "time": "16:01",
+    "text": "🔑 Peak matchday. 🏦\n\nGames back to back into the night. I'm on the board — keys as the spots come.\n\nStay locked in. ⚽"
   },
   {
     "id": "d12-1630",
@@ -790,6 +910,12 @@
     "text": "💥 RESULT — [MATCH]\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e12-2330",
+    "day": 12,
+    "time": "23:30",
+    "text": "🔑 Massive matchday done.\n\nWe took the spots we rated and skipped the rest. That's the discipline that cracks vaults.\n\nSunday, we go again. 🏦"
+  },
+  {
     "id": "r12-1845",
     "day": 12,
     "time": "23:45",
@@ -814,6 +940,12 @@
     "text": "💥 RESULT — [MATCH]\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e13-0800",
+    "day": 13,
+    "time": "08:00",
+    "text": "🔑 Sunday. Board's up. ☀️\n\nFewer games, sharper spots. Sunday is where the patient operators eat.\n\nHere we go. 🏦"
+  },
+  {
     "id": "d13-1000",
     "day": 13,
     "time": "10:00",
@@ -825,6 +957,12 @@
     "time": "10:30",
     "text": "🔑 SERIE A KEY\n\n⚽ Fiorentina v Napoli\n🗓 20 Sep\n\nPick: Napoli to win\nOdds: 2.14\n\nRead the spot, take the door. 🏦",
     "image": "https://raw.githubusercontent.com/kal1lar/Vault-Key/main/images/card_d13-1030.png"
+  },
+  {
+    "id": "e13-1100",
+    "day": 13,
+    "time": "11:00",
+    "text": "🔑 The bookies bank on your patience running out.\n\nSo we out-patient them. Missed a spot? Fine. Another door opens tomorrow.\n\nProcess over FOMO."
   },
   {
     "id": "d13-1200",
@@ -870,6 +1008,12 @@
     "day": 13,
     "time": "16:00",
     "text": "💥 RESULT — Leeds v Crystal Palace\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
+  },
+  {
+    "id": "e13-1601",
+    "day": 13,
+    "time": "16:01",
+    "text": "🔑 Sunday slate rolling.\n\nThe good doors are later today. Patience now, keys soon.\n\n🏦"
   },
   {
     "id": "d13-1625",
@@ -948,6 +1092,12 @@
     "text": "💥 RESULT — Bournemouth v Liverpool\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e13-2100",
+    "day": 13,
+    "time": "21:00",
+    "text": "🔑 Winding the weekend down.\n\nOne eye on the late doors, one on next week's board already.\n\nThe grind doesn't stop. 🏦"
+  },
+  {
     "id": "r13-1600",
     "day": 13,
     "time": "22:00",
@@ -966,6 +1116,12 @@
     "text": "💥 RESULT — Deportivo v Betis\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e13-2330",
+    "day": 13,
+    "time": "23:30",
+    "text": "🔑 Weekend's in the book.\n\nEvery key posted stays posted. That's the whole promise here.\n\nFresh board Monday. Night, operators. 🔑"
+  },
+  {
     "id": "r13-1845",
     "day": 13,
     "time": "23:45",
@@ -978,10 +1134,28 @@
     "text": "💥 RESULT — Valencia v Real Sociedad\n\n[RESULT]\n\nStraight, every time. No deleted slips. 🔑🏦"
   },
   {
+    "id": "e14-0800",
+    "day": 14,
+    "time": "08:00",
+    "text": "🔑 Monday. Fresh week, fresh board. ☀️\n\nLines are live. Reset, refocus, back to work on the vault. 🏦"
+  },
+  {
+    "id": "e14-1100",
+    "day": 14,
+    "time": "11:00",
+    "text": "📊 Week's reset.\n\nWins bank, losses teach, the process stays the same. That's how you crack a vault — reps, not luck. 🔑"
+  },
+  {
     "id": "d14-1300",
     "day": 14,
     "time": "13:00",
     "text": "🔑 EURO KEY — SERIE A\n\n⚽ [MATCH]\nPick: [PICK]\nOdds: [x.xx]\n\nItaly closes the round. One disciplined door to end the week. 🏦"
+  },
+  {
+    "id": "e14-1600",
+    "day": 14,
+    "time": "16:00",
+    "text": "🔑 Quiet slate, sharp eyes.\n\nMonday's thin, but there's always a door if you look. Circling it now. 🏦"
   },
   {
     "id": "r14-1300",
@@ -994,6 +1168,12 @@
     "day": 14,
     "time": "19:00",
     "text": "📊 WEEK 2 RECAP 🔑\n\nRecord: [X-Y]\nStraight, no hiding.\n\nFlat stakes, real results, doors cracked over time. That's the system.\nWeek 3 keys load tomorrow. 🏦"
+  },
+  {
+    "id": "e14-2100",
+    "day": 14,
+    "time": "21:00",
+    "text": "🔑 Week's underway.\n\nSmall board today, but the vault never fully closes. Back at it tomorrow with volume. 🏦"
   },
   {
     "id": "d14-2200",
